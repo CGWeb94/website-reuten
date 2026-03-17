@@ -1,5 +1,6 @@
 # Auto-generated – update when known
-Domain:         [elektrotechnik-reuten.de]
+Domain:         elektrotechnik-reuten.de
 GitHub-Repo:    github.com/CGWeb94/website-reuten
 Vercel-Projekt: website-reuten
 Canonical-URL:  https://website-reuten.vercel.app
+Deployment:     Live – 2026-03-17
